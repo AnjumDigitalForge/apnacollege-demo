@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first GIT Repository. <br>
-Author - Naveed Anjum.
+Author - M. Naveed Anjum (Programmer).
+Powered by: AnjumDigitalForge
